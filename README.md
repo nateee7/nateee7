@@ -18,5 +18,4 @@ certificates:
 	-
 
 
-am kinda social, but too much
-for some time in my Git will appear only practise projects, that I code in educational purposes
+am kinda social, but not too much
