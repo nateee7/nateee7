@@ -3,7 +3,7 @@ current programmer status:  student
 
 
 my coding confidence in languages:
-	C++		3/10,
+	C++		2/10,
  	Kotlin		1/10,
   	Java		0.5/10
 
