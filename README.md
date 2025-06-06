@@ -19,4 +19,5 @@ certificates:
 	-
 
 
-am kinda social, but not too much
+links:
+	- [g.dev](https://g.dev/naaate7)
